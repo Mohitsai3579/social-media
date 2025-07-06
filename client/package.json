@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mohitsai3579.github.io/social-media",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -18,9 +19,7 @@
     "react-scripts": "^5.0.1",
     "socket.io-client": "^4.5.1",
     "validator": "^13.7.0",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://mohitsai3579.github.io/social-media/"
-
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
